@@ -1,6 +1,6 @@
 # haiku-generator
 
-This program generates (potentially) original haiku by using Markov chain analysis, a large set of haiku, nltk, and python. 
+This program generates potentially original haiku by using Markov chain analysis, a large set of haiku, nltk, and python. 
 
 Haiku is a form of Japanese poetry, usually about nature, where the first line consists of five syllables, the second line consists of seven syllables, and the third and final line consists of five syllables. 
 
